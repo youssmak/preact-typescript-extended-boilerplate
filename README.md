@@ -40,6 +40,18 @@ Yarn
 npm install --global yarn
 ```
 
+## Extras
+
+### Build time
+
+Big project and slow build time ? Try turborepo:\
+https://turbo.build/repo/docs
+
+### CSS
+
+Tired about waiting for [https://www.w3.org/TR/css-cascade-6/#scoped-styles](Scoped styles) or using BEM naming conventions ?\
+Vitejs already includes [https://vitejs.dev/guide/features.html#css-modules](CSS Modules) with PostCSS built-in support.
+
 ## License
 
 All content is [MIT](https://github.com/youssmak/vanilla-js-boilerplate/blob/master/LICENSE).

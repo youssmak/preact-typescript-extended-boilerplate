@@ -1,0 +1,23 @@
+#                                                                                                                 
+#                                                                    dddddddd                                     
+#                     lllllll                      iiii              d::::::d                                     
+#                     l:::::l                     i::::i             d::::::d                                     
+#                     l:::::l                      iiii              d::::::d                                     
+#                     l:::::l                                        d:::::d                                      
+#     aaaaaaaaaaaaa    l::::l     eeeeeeeeeeee   iiiiiii     ddddddddd:::::d   aaaaaaaaaaaaa  rrrrr   rrrrrrrrr   
+#     a::::::::::::a   l::::l   ee::::::::::::ee i:::::i   dd::::::::::::::d   a::::::::::::a r::::rrr:::::::::r  
+#     aaaaaaaaa:::::a  l::::l  e::::::eeeee:::::eei::::i  d::::::::::::::::d   aaaaaaaaa:::::ar:::::::::::::::::r 
+#              a::::a  l::::l e::::::e     e:::::ei::::i d:::::::ddddd:::::d            a::::arr::::::rrrrr::::::r
+#       aaaaaaa:::::a  l::::l e:::::::eeeee::::::ei::::i d::::::d    d:::::d     aaaaaaa:::::a r:::::r     r:::::r
+#     aa::::::::::::a  l::::l e:::::::::::::::::e i::::i d:::::d     d:::::d   aa::::::::::::a r:::::r     rrrrrrr
+#    a::::aaaa::::::a  l::::l e::::::eeeeeeeeeee  i::::i d:::::d     d:::::d  a::::aaaa::::::a r:::::r            
+#   a::::a    a:::::a  l::::l e:::::::e           i::::i d:::::d     d:::::d a::::a    a:::::a r:::::r            
+#   a::::a    a:::::a l::::::le::::::::e         i::::::id::::::ddddd::::::dda::::a    a:::::a r:::::r            
+#   a:::::aaaa::::::a l::::::l e::::::::eeeeeeee i::::::i d:::::::::::::::::da:::::aaaa::::::a r:::::r            
+#    a::::::::::aa:::al::::::l  ee:::::::::::::e i::::::i  d:::::::::ddd::::d a::::::::::aa:::ar:::::r            
+#     aaaaaaaaaa  aaaallllllll    eeeeeeeeeeeeee iiiiiiii   ddddddddd   ddddd  aaaaaaaaaa  aaaarrrrrrr         
+#                                                                                                                 
+#                                                                                                                 
+
+User-agent: *
+Allow: /

@@ -6,7 +6,8 @@ _This is a opinionated starter project for building fast ⚡️ HTML + CSS + JS 
 
 - Preact : Light & Fast version of React ⚛️
 - TypeScript : Strongly type your JavaScript 🚨
-- Vitest : A unit test framework ⚡️
+- Vitest : Unit test your components ⚡️
+- Playwright : End to end testing on any browser 🎭
 - ViteJS : Lightning fast web server for development 🧑‍💻 and optimized build for production 📦
 - Prettier : format code on save and save your energy 🔋
 - Eslint : Analyse your code and quickly find issues 🐛

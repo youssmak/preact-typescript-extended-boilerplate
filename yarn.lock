@@ -605,6 +605,18 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@playwright/test@npm:^1.30.0":
+  version: 1.30.0
+  resolution: "@playwright/test@npm:1.30.0"
+  dependencies:
+    "@types/node": "*"
+    playwright-core: 1.30.0
+  bin:
+    playwright: cli.js
+  checksum: 777432ac9cf3d0341fcd8dd265cb4c0775619d0ef48252b32a7c4d632d8038449756ec34bec873828cadbc08ba634e81176cb193304d34e699472771b7fb4d1e
+  languageName: node
+  linkType: hard
+
 "@preact/preset-vite@npm:^2.5.0":
   version: 2.5.0
   resolution: "@preact/preset-vite@npm:2.5.0"
@@ -3753,6 +3765,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"playwright-core@npm:1.30.0":
+  version: 1.30.0
+  resolution: "playwright-core@npm:1.30.0"
+  bin:
+    playwright: cli.js
+  checksum: 4c5693f27245a1168f94708ecd8e1eb0d200de435b25cc07cfa25b97a094633818954dc00baf24e0ff551825f672050b83d1309362c1f97213fe8ebd2a147ed9
+  languageName: node
+  linkType: hard
+
 "postcss@npm:^8.4.21":
   version: 8.4.21
   resolution: "postcss@npm:8.4.21"
@@ -3768,6 +3789,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "preact-typescript-extended-boilerplate@workspace:."
   dependencies:
+    "@playwright/test": ^1.30.0
     "@preact/preset-vite": ^2.5.0
     "@testing-library/preact": ^3.2.3
     "@testing-library/preact-hooks": ^1.1.0

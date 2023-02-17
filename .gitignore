@@ -23,6 +23,9 @@ tmp
 .cache
 .yarn
 __snapshots__/
+/test-results/
+/playwright-report/
+/playwright/.cache/
 
 
 # App

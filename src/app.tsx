@@ -1,5 +1,5 @@
 import './app.css';
 
 export function App() {
-  return <>ready !</>;
+  return <>ready!</>;
 }

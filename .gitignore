@@ -22,6 +22,8 @@ tmp
 *.tmp
 .cache
 .yarn
+__snapshots__/
+
 
 # App
 node_modules

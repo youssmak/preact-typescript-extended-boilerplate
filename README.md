@@ -6,6 +6,7 @@ _This is a opinionated starter project for building fast ⚡️ HTML + CSS + JS 
 
 - Preact : Light & Fast version of React ⚛️
 - TypeScript : Strongly type your JavaScript 🚨
+- Vitest : A unit test framework ⚡️
 - ViteJS : Lightning fast web server for development 🧑‍💻 and optimized build for production 📦
 - Prettier : format code on save and save your energy 🔋
 - Eslint : Analyse your code and quickly find issues 🐛
@@ -51,6 +52,10 @@ https://turbo.build/repo/docs
 
 Tired about waiting for [https://www.w3.org/TR/css-cascade-6/#scoped-styles](Scoped styles) or using BEM naming conventions ?\
 Vitejs already includes [https://vitejs.dev/guide/features.html#css-modules](CSS Modules) with PostCSS built-in support.
+
+### Testing
+
+Jest is not fully supported by Vite : https://jestjs.io/docs/29.1/getting-started#using-vite
 
 ## License
 
